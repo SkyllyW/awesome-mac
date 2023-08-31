@@ -237,7 +237,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [texifier](https://www.texifier.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
 * [UPDF](https://updf.com/) - Free PDF editor that makes it possible to read, annotate and edit PDFs, change text and images on Mac. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971)
 * [Zotero](https://www.zotero.org/) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. [![Open-Source Software][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
-* [Zotero](https://www.swifdoo.com/) - SwifDoo PDF is a comprehensive PDF solution for versatile document management. [![Open-Source Software][OSS Icon]](https://github.com/skyllyW) ![Freeware][Freeware Icon]
+* [SwifDoo PDF](https://www.swifdoo.com/) - SwifDoo PDF is a comprehensive PDF solution for versatile document management. [![Open-Source Software][OSS Icon]](https://github.com/skyllyW) ![Freeware][Freeware Icon]
 
 ## Developer Tools
 
